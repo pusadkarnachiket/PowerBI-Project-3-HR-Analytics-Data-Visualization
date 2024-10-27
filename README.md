@@ -1,6 +1,6 @@
 # PowerBI-Project-3-HR-Analytics-Data-Visualization
 
-Have a look at the dashboard: https://drive.google.com/file/d/13_7kyxylnJqT8bSbh7baN50qfNCcEr17/view?usp=sharing
+Have a look at the dashboard: [https://drive.google.com/file/d/13_7kyxylnJqT8bSbh7baN50qfNCcEr17/view?usp=sharing](https://drive.google.com/file/d/13_7kyxylnJqT8bSbh7baN50qfNCcEr17/view?usp=sharing)
 
 ![image](https://github.com/user-attachments/assets/39003c1c-e6e3-45a4-a5c9-e3dc96210085)
 
